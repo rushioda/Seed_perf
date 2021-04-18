@@ -1,0 +1,40 @@
+
+----
+1. W -> HNL mu & HNL -> mu mu nu_mu; m_HNL = 10 GeV & HNL_ctau = 10 mm  (mu-mu channel)
+
+FullSim; 10k: mc16_13TeV.310186.Pythia8EvtGen_A14NNPDF23LO_WmuHNL50_10G_lt10dd.recon.DAOD_RPVLL.e6778_e5984_s3126_r10740_tid15349457_00 
+
+FastSim; 10k: mc16_13TeV.310186.Pythia8EvtGen_A14NNPDF23LO_WmuHNL50_10G_lt10dd.recon.DAOD_RPVLL.e6778_e5984_a875_r10740_tid15349468_00
+
+----
+
+2. W -> HNL mu & HNL -> mu mu nu_mu; m_HNL = 15 GeV & HNL_ctau = 100 mm (mu-mu channel)
+
+FullSim; 10k: mc16_13TeV.310187.Pythia8EvtGen_A14NNPDF23LO_WmuHNL50_15G_lt100dd_mu.recon.DAOD_RPVLL.e6778_e5984_s3126_r10740_tid15349478_00    
+
+FastSim; 10k: mc16_13TeV.310187.Pythia8EvtGen_A14NNPDF23LO_WmuHNL50_15G_lt100dd_mu.recon.DAOD_RPVLL.e6778_e5984_a875_r10740_tid15349487_00
+
+----
+
+3. W -> HNL mu & HNL -> e e nu_e; m_HNL = 15 GeV & HNL_ctau = 100 mm (el-el channel)
+
+FullSim; 10k: mc16_13TeV.310189.Pythia8EvtGen_A14NNPDF23LO_WmuHNL50_15G_lt100dd_el2.recon.DAOD_RPVLL.e6778_e5984_s3126_r10740_tid15349521_00    
+
+FastSim; 10k: mc16_13TeV.310189.Pythia8EvtGen_A14NNPDF23LO_WmuHNL50_15G_lt100dd_el2.recon.DAOD_RPVLL.e6778_e5984_a875_r10740_tid15349531_00 
+
+----
+
+
+
+
+JIRA locations: https://its.cern.ch/jira/browse/ATLMCPROD-6309 (DAOD_RPVLL) which followed up from the initial request https://its.cern.ch/jira/browse/ATLMCPROD-6003
+
+r21 dHNL Twiki: https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/ExoticLongLivedHeavyNeutralLeptonRel21#List_of_r21_validation_signal_MC
+
+
+
+VHaa
+309851 - 309866
+
+
+
